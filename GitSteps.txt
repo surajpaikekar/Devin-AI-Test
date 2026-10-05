@@ -1,0 +1,16 @@
+D:\Workbook\Devin AI>git init
+
+D:\Workbook\Devin AI>git remote add origin https://github.com/surajpaikekar/Devin-AI-Test.git
+error: remote origin already exists.
+
+D:\Workbook\Devin AI>git remote remove origin
+
+D:\Workbook\Devin AI>git remote add origin https://github.com/surajpaikekar/Devin-AI-Test.git
+
+D:\Workbook\Devin AI>git fetch origin
+
+D:\Workbook\Devin AI>git checkout -b main origin/main
+
+D:\Workbook\Devin AI>git pull origin
+
+D:\Workbook\Devin AI>git checkout --track origin/devin/1791221999-proposal-builder
